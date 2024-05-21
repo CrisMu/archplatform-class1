@@ -14,3 +14,5 @@ Plataforma para gestionar y supervisar las APIs desplegadas en Mule runtimes, ta
 
 ## Why / Use-case
 Despliegue de Aplicaciones: permite desplegar, configurar y actualizar aplicaciones en múltiples entornos a través de una interfaz intuitiva
+Monitorización y Supervisión: proporciona métricas detalladas sobre el rendimiento de las aplicaciones, incluyendo el uso de CPU, memoria, y latencia de las APIs.
+Gestión de Logs y Auditoría: centraliza los logs de las aplicaciones para facilitar la resolución de problemas y la auditoría. Integra con herramientas de gestión de logs y monitoreo de terceros para un análisis más profundo.
